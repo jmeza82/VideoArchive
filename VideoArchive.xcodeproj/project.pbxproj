@@ -9,19 +9,29 @@
 /* Begin PBXBuildFile section */
 		83040C1F20007B5C00B28B0C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83040C1E20007B5C00B28B0C /* AppDelegate.swift */; };
 		83040C2120007B5C00B28B0C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83040C2020007B5C00B28B0C /* ViewController.swift */; };
-		83040C2420007B5C00B28B0C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83040C2220007B5C00B28B0C /* Main.storyboard */; };
+		83040C2420007B5C00B28B0C /* VideoArchive.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83040C2220007B5C00B28B0C /* VideoArchive.storyboard */; };
 		83040C2620007B5C00B28B0C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83040C2520007B5C00B28B0C /* Assets.xcassets */; };
 		83040C2920007B5C00B28B0C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83040C2720007B5C00B28B0C /* LaunchScreen.storyboard */; };
+		83040C3B200095D600B28B0C /* City - 730.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 83040C37200095D500B28B0C /* City - 730.mp4 */; };
+		83040C3C200095D600B28B0C /* Reindeer - 6949.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 83040C38200095D500B28B0C /* Reindeer - 6949.mp4 */; };
+		83040C3D200095D600B28B0C /* Tracks - 7727.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 83040C39200095D600B28B0C /* Tracks - 7727.mp4 */; };
+		83040C3E200095D600B28B0C /* Nature - 8399.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 83040C3A200095D600B28B0C /* Nature - 8399.mp4 */; };
+		83040C40200095E700B28B0C /* Mountains - 7418.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 83040C3F200095E700B28B0C /* Mountains - 7418.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		83040C1B20007B5C00B28B0C /* VideoArchive.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VideoArchive.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		83040C1E20007B5C00B28B0C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		83040C2020007B5C00B28B0C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		83040C2320007B5C00B28B0C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		83040C2320007B5C00B28B0C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/VideoArchive.storyboard; sourceTree = "<group>"; };
 		83040C2520007B5C00B28B0C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		83040C2820007B5C00B28B0C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		83040C2A20007B5C00B28B0C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		83040C37200095D500B28B0C /* City - 730.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "City - 730.mp4"; sourceTree = "<group>"; };
+		83040C38200095D500B28B0C /* Reindeer - 6949.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Reindeer - 6949.mp4"; sourceTree = "<group>"; };
+		83040C39200095D600B28B0C /* Tracks - 7727.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Tracks - 7727.mp4"; sourceTree = "<group>"; };
+		83040C3A200095D600B28B0C /* Nature - 8399.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Nature - 8399.mp4"; sourceTree = "<group>"; };
+		83040C3F200095E700B28B0C /* Mountains - 7418.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Mountains - 7418.mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,9 +66,14 @@
 			children = (
 				83040C1E20007B5C00B28B0C /* AppDelegate.swift */,
 				83040C2020007B5C00B28B0C /* ViewController.swift */,
-				83040C2220007B5C00B28B0C /* Main.storyboard */,
+				83040C2220007B5C00B28B0C /* VideoArchive.storyboard */,
 				83040C2520007B5C00B28B0C /* Assets.xcassets */,
 				83040C2720007B5C00B28B0C /* LaunchScreen.storyboard */,
+				83040C37200095D500B28B0C /* City - 730.mp4 */,
+				83040C3A200095D600B28B0C /* Nature - 8399.mp4 */,
+				83040C38200095D500B28B0C /* Reindeer - 6949.mp4 */,
+				83040C3F200095E700B28B0C /* Mountains - 7418.mp4 */,
+				83040C39200095D600B28B0C /* Tracks - 7727.mp4 */,
 				83040C2A20007B5C00B28B0C /* Info.plist */,
 			);
 			path = VideoArchive;
@@ -124,8 +139,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				83040C2920007B5C00B28B0C /* LaunchScreen.storyboard in Resources */,
+				83040C3E200095D600B28B0C /* Nature - 8399.mp4 in Resources */,
+				83040C40200095E700B28B0C /* Mountains - 7418.mp4 in Resources */,
+				83040C3C200095D600B28B0C /* Reindeer - 6949.mp4 in Resources */,
+				83040C3D200095D600B28B0C /* Tracks - 7727.mp4 in Resources */,
 				83040C2620007B5C00B28B0C /* Assets.xcassets in Resources */,
-				83040C2420007B5C00B28B0C /* Main.storyboard in Resources */,
+				83040C3B200095D600B28B0C /* City - 730.mp4 in Resources */,
+				83040C2420007B5C00B28B0C /* VideoArchive.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -144,12 +164,12 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		83040C2220007B5C00B28B0C /* Main.storyboard */ = {
+		83040C2220007B5C00B28B0C /* VideoArchive.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				83040C2320007B5C00B28B0C /* Base */,
 			);
-			name = Main.storyboard;
+			name = VideoArchive.storyboard;
 			sourceTree = "<group>";
 		};
 		83040C2720007B5C00B28B0C /* LaunchScreen.storyboard */ = {
@@ -277,6 +297,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 39YB79HE4S;
 				INFOPLIST_FILE = VideoArchive/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "co.tech-in.VideoArchive";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -292,6 +313,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 39YB79HE4S;
 				INFOPLIST_FILE = VideoArchive/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "co.tech-in.VideoArchive";
 				PRODUCT_NAME = "$(TARGET_NAME)";
